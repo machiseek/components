@@ -7,10 +7,6 @@
                     {
                         "image": "https://hbb.afl.rakuten.co.jp/hsb/52662f65.d65d698a.52481dbe.29272198/?me_id=2100034&me_adv_id=2185640&t=pict",
                         "url": "https://hb.afl.rakuten.co.jp/hgc/52482cbc.950f2a55.52482cbd.e36492e7/?pc=https%3A%2F%2Fexperiences.travel.rakuten.co.jp%2Fdestinations%2Fsapporo&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
-                    },
-                    {
-                        "image": "https://placehold.jp/f6f6f6/424242/300x250.png?text=%E3%81%98%E3%82%83%E3%82%89%E3%82%93%E9%81%8A%E3%81%B3%E3%83%BB%E4%BD%93%E9%A8%93",
-                        "url": "https://www.jalan.net/activity/010000/010200/"
                     }
                 ]
             }
@@ -22,24 +18,11 @@
                     {
                         "image": "https://hbb.afl.rakuten.co.jp/hsb/526636ae.1376bb4d.52481dbe.29272198/?me_id=2100001&me_adv_id=2188646&t=pict",
                         "url": "https://hb.afl.rakuten.co.jp/hgc/50482f5b.c921bf14.50482f5c.70e0a063/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2Fsapporo.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
-                    },
-                    {
-                        "image": "https://placehold.jp/f6f6f6/424242/300x250.png?text=%E3%81%98%E3%82%83%E3%82%89%E3%82%93",
-                        "url": "https://www.jalan.net/010000/LRG_010200/"
                     }
                 ]
             }
         ],
         "restaurant": [
-            {
-                "id": "restaurant",
-                "items": [
-                    {
-                        "image": "https://placehold.jp/f6f6f6/424242/300x250.png?text=%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%A1",
-                        "url": "https://www.hotpepper.jp/SA41/Y505/"
-                    }
-                ]
-            }
         ],
         "food": [
             {
@@ -99,10 +82,6 @@
                     {
                         "image": "https://hbb.afl.rakuten.co.jp/hsb/52481e4d.f8fa7b59.52481dbe.29272198/?me_id=2100017&me_adv_id=2762524&t=pict",
                         "url": "https://hb.afl.rakuten.co.jp/hgc/52480b61.e5d8c1c0.52480b62.d47565ec/?pc=https%3A%2F%2Fcars.travel.rakuten.co.jp%2Fcars%2Fstation%2Fhokkaido%2F28003.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
-                    },
-                    {
-                        "image": "https://placehold.jp/f6f6f6/424242/300x250.png?text=%E3%81%98%E3%82%83%E3%82%89%E3%82%93%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%AB%E3%83%BC",
-                        "url": "https://www.jalan.net/rentacar/search/010000/LRG_010200/plan/"
                     }
                 ]
             }
