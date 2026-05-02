@@ -26,11 +26,28 @@
                     {
                         "image": "https://hbb.afl.rakuten.co.jp/hsb/526636ae.1376bb4d.52481dbe.29272198/?me_id=2100001&me_adv_id=2188646&t=pict",
                         "url": "https://hb.afl.rakuten.co.jp/hgc/50482f5b.c921bf14.50482f5c.70e0a063/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2Fsapporo.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
+                    },
+                    {
+                        "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3769286&pid=892604825",
+                        "url": "https://www.jalan.net/010000/LRG_010200/"
+                    },
+                    {
+                        "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3769286&pid=892604835",
+                        "url": "https://www.ikyu.com/hokkaido/110110/"
                     }
                 ]
             }
         ],
         "restaurant": [
+            {
+                "id": "restaurant",
+                "items": [
+                    {
+                        "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3769286&pid=892604831",
+                        "url": "https://tabelog.com/hokkaido/A0101/"
+                    }
+                ]
+            }
         ],
         "food": [
             {
@@ -73,6 +90,15 @@
             }
         ],
         "access": [
+            {
+                "id": "exbus",
+                "items": [
+                    {
+                        "image": "https://hbb.afl.rakuten.co.jp/hsb/5300dd29.b40affc4.5300dba8.902c8237/?me_id=2100001&me_adv_id=2189621&t=pict",
+                        "url": "https://hb.afl.rakuten.co.jp/hgc/5300db01.24d1c396.5300db02.77440f6a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Fa_route_list%2Fa_hokkaido_Sapporo%2F&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
+                    }
+                ]
+            }
         ],
         "transportation": [
             {
@@ -81,6 +107,10 @@
                     {
                         "image": "https://hbb.afl.rakuten.co.jp/hsb/52481e4d.f8fa7b59.52481dbe.29272198/?me_id=2100017&me_adv_id=2762524&t=pict",
                         "url": "https://hb.afl.rakuten.co.jp/hgc/52480b61.e5d8c1c0.52480b62.d47565ec/?pc=https%3A%2F%2Fcars.travel.rakuten.co.jp%2Fcars%2Fstation%2Fhokkaido%2F28003.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
+                    },
+                    {
+                        "image": "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3769286&pid=892605480",
+                        "url": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3769286&pid=892605480&vc_url=https%3A%2F%2Fwww.jalan.net%2Frentacar%2Fsearch%2F010000%2FLRG_010200%2Fplan%2F%3Fvos%3Dafjlrpvczzzzx00000001"
                     }
                 ]
             }
