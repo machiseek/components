@@ -1502,6 +1502,31 @@
         "url": "/miyagi-pref/sendai-city/",
         "introduction": "「杜の都」と称される東北最大の都市。伊達政宗が築いた青葉城や、豪華絢爛な「七夕まつり」が象徴。"
     },
+    "04101": {
+        "name": "仙台市中央区",
+        "url": "/miyagi-pref/sendai-city/",
+        "introduction": ""
+    },
+    "04102": {
+        "name": "仙台市宮城野区",
+        "url": "/miyagi-pref/sendai-city/",
+        "introduction": ""
+    },
+    "04103": {
+        "name": "仙台市若林区",
+        "url": "/miyagi-pref/sendai-city/",
+        "introduction": ""
+    },
+    "04104": {
+        "name": "仙台市太白区",
+        "url": "/miyagi-pref/sendai-city/",
+        "introduction": ""
+    },
+    "04105": {
+        "name": "仙台市泉区",
+        "url": "/miyagi-pref/sendai-city/",
+        "introduction": ""
+    },
     "04202": {
         "name": "石巻市",
         "url": "/miyagi-pref/ishinomaki-city/",
@@ -2792,6 +2817,56 @@
         "url": "/saitama-pref/saitama-city/",
         "introduction": "東北・上越新幹線が結節する北関東最大の100万都市。氷川神社の総本社や鉄道博物館がある。"
     },
+    "11101": {
+        "name": "さいたま市西区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11102": {
+        "name": "さいたま市北区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11103": {
+        "name": "さいたま市大宮区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11104": {
+        "name": "さいたま市見沼区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11105": {
+        "name": "さいたま市中央区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11106": {
+        "name": "さいたま市桜区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11107": {
+        "name": "さいたま市浦和区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11108": {
+        "name": "さいたま市南区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11109": {
+        "name": "さいたま市緑区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
+    "11110": {
+        "name": "さいたま市岩槻区",
+        "url": "/saitama-pref/saitama-city/",
+        "introduction": ""
+    },
     "11201": {
         "name": "川越市",
         "url": "/saitama-pref/kawagoe-city/",
@@ -3107,6 +3182,36 @@
         "url": "/chiba-pref/chiba-city/",
         "introduction": "県庁所在地であり、幕張メッセやZOZOマリンスタジアムを擁する。懸垂式モノレールが世界一の長さ。"
     },
+    "12101": {
+        "name": "千葉市中央区",
+        "url": "/chiba-pref/chiba-city/",
+        "introduction": ""
+    },
+    "12102": {
+        "name": "千葉市花見川区",
+        "url": "/chiba-pref/chiba-city/",
+        "introduction": ""
+    },
+    "12103": {
+        "name": "千葉市稲毛区",
+        "url": "/chiba-pref/chiba-city/",
+        "introduction": ""
+    },
+    "12104": {
+        "name": "千葉市若葉区",
+        "url": "/chiba-pref/chiba-city/",
+        "introduction": ""
+    },
+    "12105": {
+        "name": "千葉市緑区",
+        "url": "/chiba-pref/chiba-city/",
+        "introduction": ""
+    },
+    "12106": {
+        "name": "千葉市美浜区",
+        "url": "/chiba-pref/chiba-city/",
+        "introduction": ""
+    },
     "12202": {
         "name": "銚子市",
         "url": "/chiba-pref/choshi-city/",
@@ -3377,6 +3482,121 @@
         "url": "/tokyo-pref/ku-area/",
         "introduction": "日本の首都機能を担う23の個性が集まる巨大都市。政治・経済・文化の世界的拠点。"
     },
+    "13101": {
+        "name": "千代田区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13102": {
+        "name": "中央区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13103": {
+        "name": "港区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13104": {
+        "name": "新宿区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13105": {
+        "name": "文京区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13106": {
+        "name": "台東区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13107": {
+        "name": "墨田区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13108": {
+        "name": "江東区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13109": {
+        "name": "品川区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13110": {
+        "name": "目黒区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13111": {
+        "name": "大田区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13112": {
+        "name": "世田谷区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13113": {
+        "name": "渋谷区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13114": {
+        "name": "中野区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13115": {
+        "name": "杉並区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13116": {
+        "name": "豊島区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13117": {
+        "name": "北区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13118": {
+        "name": "荒川区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13119": {
+        "name": "板橋区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13120": {
+        "name": "練馬区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13121": {
+        "name": "足立区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13122": {
+        "name": "葛飾区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
+    "13123": {
+        "name": "江戸川区",
+        "url": "/tokyo-pref/ku-area/",
+        "introduction": ""
+    },
     "13201": {
         "name": "八王子市",
         "url": "/tokyo-pref/hachioji-city/",
@@ -3577,15 +3797,155 @@
         "url": "/kanagawa-pref/yokohama-city/",
         "introduction": "日本最大の政令市。みなとみらいの夜景、中華街、山手の洋館など、港町の情緒と活気が共存。"
     },
+    "14101": {
+        "name": "横浜市鶴見区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14102": {
+        "name": "横浜市神奈川区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14103": {
+        "name": "横浜市西区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14104": {
+        "name": "横浜市中区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14105": {
+        "name": "横浜市南区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14106": {
+        "name": "横浜市保土ケ谷区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14107": {
+        "name": "横浜市磯子区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14108": {
+        "name": "横浜市金沢区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14109": {
+        "name": "横浜市港北区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14110": {
+        "name": "横浜市戸塚区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14111": {
+        "name": "横浜市港南区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14112": {
+        "name": "横浜市旭区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14113": {
+        "name": "横浜市緑区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14114": {
+        "name": "横浜市瀬谷区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14115": {
+        "name": "横浜市栄区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14116": {
+        "name": "横浜市泉区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14117": {
+        "name": "横浜市青葉区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
+    "14118": {
+        "name": "横浜市都筑区",
+        "url": "/kanagawa-pref/yokohama-city/",
+        "introduction": ""
+    },
     "14130": {
         "name": "川崎市",
         "url": "/kanagawa-pref/kawasaki-city/",
         "introduction": "多摩川沿いの工業地帯から、北部の緑豊かな住宅街まで。音楽やスポーツも盛んな活力ある街。"
     },
+    "14131": {
+        "name": "川崎市川崎区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
+    "14132": {
+        "name": "川崎市幸区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
+    "14133": {
+        "name": "川崎市中原区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
+    "14134": {
+        "name": "川崎市高津区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
+    "14135": {
+        "name": "川崎市多摩区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
+    "14136": {
+        "name": "川崎市宮前区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
+    "14137": {
+        "name": "川崎市麻生区",
+        "url": "/kanagawa-pref/kawasaki-city/",
+        "introduction": ""
+    },
     "14150": {
         "name": "相模原市",
         "url": "/kanagawa-pref/sagamihara-city/",
         "introduction": "リニア中央新幹線の駅設置が予定される。潤水都市を掲げ、津久井湖などの自然も豊富。"
+    },
+    "14151": {
+        "name": "相模原市緑区",
+        "url": "/kanagawa-pref/sagamihara-city/",
+        "introduction": ""
+    },
+    "14152": {
+        "name": "相模原市中央区",
+        "url": "/kanagawa-pref/sagamihara-city/",
+        "introduction": ""
+    },
+    "14153": {
+        "name": "相模原市南区",
+        "url": "/kanagawa-pref/sagamihara-city/",
+        "introduction": ""
     },
     "14201": {
         "name": "横須賀市",
@@ -3741,6 +4101,46 @@
         "name": "新潟市",
         "url": "/niigata-pref/niigata-city/",
         "introduction": "信濃川の河口に位置する本州日本海側唯一の政令市。古くからの港町で、米・酒・枝豆などの食文化が極めて豊か。"
+    },
+    "15101": {
+        "name": "新潟市北区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15102": {
+        "name": "新潟市東区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15103": {
+        "name": "新潟市中央区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15104": {
+        "name": "新潟市江南区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15105": {
+        "name": "新潟市秋葉区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15106": {
+        "name": "新潟市南区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15107": {
+        "name": "新潟市西区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
+    },
+    "15108": {
+        "name": "新潟市西蒲区",
+        "url": "/niigata-pref/niigata-city/",
+        "introduction": ""
     },
     "15202": {
         "name": "長岡市",
@@ -4877,10 +5277,40 @@
         "url": "/shizuoka-pref/shizuoka-city/",
         "introduction": "「駿府城」があり家康ゆかりの地。お茶の産地、清水港のマグロ、登呂遺跡など歴史と食が豊か。"
     },
+    "22101": {
+        "name": "静岡市葵区",
+        "url": "/shizuoka-pref/shizuoka-city/",
+        "introduction": ""
+    },
+    "22102": {
+        "name": "静岡市駿河区",
+        "url": "/shizuoka-pref/shizuoka-city/",
+        "introduction": ""
+    },
+    "22103": {
+        "name": "静岡市清水区",
+        "url": "/shizuoka-pref/shizuoka-city/",
+        "introduction": ""
+    },
     "22130": {
         "name": "浜松市",
         "url": "/shizuoka-pref/hamamatsu-city/",
         "introduction": "「楽器の街」であり「スズキ」などの工業拠点。浜名湖のうなぎ、浜松餃子が名物。"
+    },
+    "22138": {
+        "name": "浜松市中央区",
+        "url": "/shizuoka-pref/hamamatsu-city/",
+        "introduction": ""
+    },
+    "22139": {
+        "name": "浜松市浜名区",
+        "url": "/shizuoka-pref/hamamatsu-city/",
+        "introduction": ""
+    },
+    "22140": {
+        "name": "浜松市天竜区",
+        "url": "/shizuoka-pref/hamamatsu-city/",
+        "introduction": ""
     },
     "22203": {
         "name": "沼津市",
@@ -5051,6 +5481,86 @@
         "name": "名古屋市",
         "url": "/aichi-pref/nagoya-city/",
         "introduction": "「名古屋城」の金の鯱が象徴。ひつまぶし・味噌カツなどの独特な「名古屋メシ」が全国的人気。"
+    },
+    "23101": {
+        "name": "名古屋市千種区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23102": {
+        "name": "名古屋市東区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23103": {
+        "name": "名古屋市北区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23104": {
+        "name": "名古屋市西区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23105": {
+        "name": "名古屋市中村区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23106": {
+        "name": "名古屋市中区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23107": {
+        "name": "名古屋市昭和区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23108": {
+        "name": "名古屋市瑞穂区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23109": {
+        "name": "名古屋市熱田区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23110": {
+        "name": "名古屋市中川区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23111": {
+        "name": "名古屋市港区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23112": {
+        "name": "名古屋市南区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23113": {
+        "name": "名古屋市守山区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23114": {
+        "name": "名古屋市緑区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23115": {
+        "name": "名古屋市名東区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
+    },
+    "23116": {
+        "name": "名古屋市天白区",
+        "url": "/aichi-pref/nagoya-city/",
+        "introduction": ""
     },
     "23201": {
         "name": "豊橋市",
@@ -5562,6 +6072,61 @@
         "url": "/kyoto-pref/kyoto-city/",
         "introduction": "1000年の都。17の世界遺産、伝統芸能、四季の美しさなど、日本文化の真髄が集まる世界的な観光都市。"
     },
+    "26101": {
+        "name": "京都市北区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26102": {
+        "name": "京都市上京区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26103": {
+        "name": "京都市左京区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26104": {
+        "name": "京都市中京区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26105": {
+        "name": "京都市東山区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26106": {
+        "name": "京都市下京区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26107": {
+        "name": "京都市南区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26108": {
+        "name": "京都市右京区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26109": {
+        "name": "京都市伏見区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26110": {
+        "name": "京都市山科区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
+    "26111": {
+        "name": "京都市西京区",
+        "url": "/kyoto-pref/kyoto-city/",
+        "introduction": ""
+    },
     "26201": {
         "name": "福知山市",
         "url": "/kyoto-pref/fukuchiyama-city/",
@@ -5692,10 +6257,165 @@
         "url": "/osaka-pref/osaka-city/",
         "introduction": "「水の都」「食い倒れの街」。大阪城、道頓堀、通天閣、USJなど観光名所が多く、西日本の経済・文化の中心。"
     },
+    "27102": {
+        "name": "大阪市都島区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27103": {
+        "name": "大阪市福島区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27104": {
+        "name": "大阪市此花区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27106": {
+        "name": "大阪市西区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27107": {
+        "name": "大阪市港区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27108": {
+        "name": "大阪市大正区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27109": {
+        "name": "大阪市天王寺区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27111": {
+        "name": "大阪市浪速区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27113": {
+        "name": "大阪市西淀川区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27114": {
+        "name": "大阪市東淀川区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27115": {
+        "name": "大阪市東成区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27116": {
+        "name": "大阪市生野区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27117": {
+        "name": "大阪市旭区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27118": {
+        "name": "大阪市城東区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27119": {
+        "name": "大阪市阿倍野区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27120": {
+        "name": "大阪市住吉区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27121": {
+        "name": "大阪市東住吉区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27122": {
+        "name": "大阪市西成区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27123": {
+        "name": "大阪市淀川区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27124": {
+        "name": "大阪市鶴見区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27125": {
+        "name": "大阪市住之江区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27126": {
+        "name": "大阪市平野区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27127": {
+        "name": "大阪市北区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
+    "27128": {
+        "name": "大阪市中央区",
+        "url": "/osaka-pref/osaka-city/",
+        "introduction": ""
+    },
     "27140": {
         "name": "堺市",
         "url": "/osaka-pref/sakai-city-2/",
         "introduction": "世界最大級の墳墓「仁徳天皇陵」を含む百舌鳥古墳群が有名。「包丁」「自転車」の伝統技術が残る政令市。"
+    },
+    "27141": {
+        "name": "堺市堺区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
+    },
+    "27142": {
+        "name": "堺市中区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
+    },
+    "27143": {
+        "name": "堺市東区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
+    },
+    "27144": {
+        "name": "堺市西区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
+    },
+    "27145": {
+        "name": "堺市南区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
+    },
+    "27146": {
+        "name": "堺市北区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
+    },
+    "27147": {
+        "name": "堺市美原区",
+        "url": "/osaka-pref/sakai-city-2/",
+        "introduction": ""
     },
     "27202": {
         "name": "岸和田市",
@@ -5906,6 +6626,51 @@
         "name": "神戸市",
         "url": "/hyogo-pref/kobe-city/",
         "introduction": "六甲山と海に挟まれた港町。南京町、異人館、有馬温泉など多彩な魅力を持つ洗練された都市。"
+    },
+    "28101": {
+        "name": "神戸市東灘区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28102": {
+        "name": "神戸市灘区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28105": {
+        "name": "神戸市兵庫区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28106": {
+        "name": "神戸市長田区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28107": {
+        "name": "神戸市須磨区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28108": {
+        "name": "神戸市垂水区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28109": {
+        "name": "神戸市北区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28110": {
+        "name": "神戸市中央区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
+    },
+    "28111": {
+        "name": "神戸市西区",
+        "url": "/hyogo-pref/kobe-city/",
+        "introduction": ""
     },
     "28201": {
         "name": "姫路市",
@@ -6647,6 +7412,26 @@
         "url": "/okayama-pref/okayama-city/",
         "introduction": "日本三名園の一つ後楽園があり、マスカットなどの高級フルーツ栽培や、桃太郎伝説の舞台として知られる。"
     },
+    "33101": {
+        "name": "岡山市北区",
+        "url": "/okayama-pref/okayama-city/",
+        "introduction": ""
+    },
+    "33102": {
+        "name": "岡山市中区",
+        "url": "/okayama-pref/okayama-city/",
+        "introduction": ""
+    },
+    "33103": {
+        "name": "岡山市東区",
+        "url": "/okayama-pref/okayama-city/",
+        "introduction": ""
+    },
+    "33104": {
+        "name": "岡山市南区",
+        "url": "/okayama-pref/okayama-city/",
+        "introduction": ""
+    },
     "33202": {
         "name": "倉敷市",
         "url": "/okayama-pref/kurashiki-city/",
@@ -6781,6 +7566,46 @@
         "name": "広島市",
         "url": "/hiroshima-pref/hiroshima-city/",
         "introduction": "世界初の被爆地として原爆ドームと平和記念公園を有し、マツダの本社が置かれる国内有数の工業・商業都市。"
+    },
+    "34101": {
+        "name": "広島市中区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34102": {
+        "name": "広島市東区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34103": {
+        "name": "広島市南区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34104": {
+        "name": "広島市西区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34105": {
+        "name": "広島市安佐南区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34106": {
+        "name": "広島市安佐北区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34107": {
+        "name": "広島市安芸区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
+    },
+    "34108": {
+        "name": "広島市佐伯区",
+        "url": "/hiroshima-pref/hiroshima-city/",
+        "introduction": ""
     },
     "34202": {
         "name": "呉市",
@@ -7467,10 +8292,80 @@
         "url": "/fukuoka-pref/kitakyushu-city/",
         "introduction": "官営八幡製鐵所から発展した工業都市で、世界遺産の関連遺産や門司港レトロの街並みが残る。"
     },
+    "40101": {
+        "name": "北九州市門司区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
+    "40103": {
+        "name": "北九州市若松区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
+    "40105": {
+        "name": "北九州市戸畑区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
+    "40106": {
+        "name": "北九州市小倉北区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
+    "40107": {
+        "name": "北九州市小倉南区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
+    "40108": {
+        "name": "北九州市八幡東区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
+    "40109": {
+        "name": "北九州市八幡西区",
+        "url": "/fukuoka-pref/kitakyushu-city/",
+        "introduction": ""
+    },
     "40130": {
         "name": "福岡市",
         "url": "/fukuoka-pref/fukuoka-city/",
         "introduction": "アジアの玄関口として発展し、日本最大級の屋台街や日本最初の禅寺とされる聖福寺がある。"
+    },
+    "40131": {
+        "name": "福岡市東区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
+    },
+    "40132": {
+        "name": "福岡市博多区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
+    },
+    "40133": {
+        "name": "福岡市中央区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
+    },
+    "40134": {
+        "name": "福岡市南区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
+    },
+    "40135": {
+        "name": "福岡市西区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
+    },
+    "40136": {
+        "name": "福岡市城南区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
+    },
+    "40137": {
+        "name": "福岡市早良区",
+        "url": "/fukuoka-pref/fukuoka-city/",
+        "introduction": ""
     },
     "40202": {
         "name": "大牟田市",
@@ -7971,6 +8866,31 @@
         "name": "熊本市",
         "url": "/kumamoto-pref/kumamoto-city/",
         "introduction": "日本三名城の一つ熊本城が象徴で、阿蘇の伏流水が市内の蛇口から出る世界最大級の地下水都市。"
+    },
+    "43101": {
+        "name": "熊本市中央区",
+        "url": "/kumamoto-pref/kumamoto-city/",
+        "introduction": ""
+    },
+    "43102": {
+        "name": "熊本市東区",
+        "url": "/kumamoto-pref/kumamoto-city/",
+        "introduction": ""
+    },
+    "43103": {
+        "name": "熊本市西区",
+        "url": "/kumamoto-pref/kumamoto-city/",
+        "introduction": ""
+    },
+    "43104": {
+        "name": "熊本市南区",
+        "url": "/kumamoto-pref/kumamoto-city/",
+        "introduction": ""
+    },
+    "43105": {
+        "name": "熊本市北区",
+        "url": "/kumamoto-pref/kumamoto-city/",
+        "introduction": ""
     },
     "43202": {
         "name": "八代市",
